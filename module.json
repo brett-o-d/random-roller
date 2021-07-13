@@ -1,0 +1,16 @@
+{
+    "name": "random-roller",
+    "title": "Random Roller - To scare your player",
+    "description": "A simple module that rolls dice at random intervals to make your players think you're doing something.",
+    "author": "brett-o-d",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.6",
+    "authors": [
+        {
+          "name": "brett-o-d"
+        }
+    ],
+    "scripts": [
+        "scripts/roller.js"
+    ]
+  }
