@@ -12,5 +12,6 @@
     ],
     "scripts": [
         "scripts/roller.js"
-    ]
+    ],
+    "url": "https://github.com/brett-o-d/random-roller"
   }
